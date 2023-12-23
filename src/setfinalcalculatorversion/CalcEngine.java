@@ -1,11 +1,6 @@
 package setfinalcalculatorversion;
 
-	/**
-	 * The main part of the calculator doing the calculations.
-	 * 
-	 * @author  David J. Barnes and Michael Kolling 
-	 * @version 2008.03.30
-	 */
+	
 	public class CalcEngine
 	{
 	    // The calculator's state is maintained in three fields:
