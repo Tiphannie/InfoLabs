@@ -5,14 +5,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.border.*;
 
-/**
- * A graphical user interface for the calculator. No calculation is being
- * done here. This class is responsible just for putting up the display on 
- * screen. It then refers to the "CalcEngine" to do all the real work.
- * 
- * @author David J. Barnes and Michael Kolling
- * @version 2008.03.30
- */
+
 public class UserInterface
     implements ActionListener
 {
